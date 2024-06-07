@@ -9,4 +9,4 @@ Tested in Fedora 40.
 
 Enjoy!
 
-![Uploading t7ZuvQt.png…]()
+![t7ZuvQt](https://github.com/gz-soares/Telegram-GTK-Dark-Theme/assets/67345515/bb744785-0e2c-43e2-a6d7-44393c476611)
