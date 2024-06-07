@@ -9,4 +9,4 @@ Tested in Fedora 40.
 
 Enjoy!
 
-(https://i.imgur.com/f1xlEXG.png)
+![dAiOBS2](https://github.com/gz-soares/Telegram-GTK-Dark-Theme/assets/67345515/5fe2c2ee-b704-4f3e-8d76-6b624b90d3bf)
