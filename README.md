@@ -9,4 +9,4 @@ Tested in Fedora 40.
 
 Enjoy!
 
-<img src="(https://i.imgur.com/f1xlEXG.png)">
+(https://i.imgur.com/f1xlEXG.png)
