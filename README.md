@@ -8,3 +8,5 @@ https://t.me/addtheme/ETEd3pVEJQxyzUjv
 Tested in Fedora 40.
 
 Enjoy!
+
+<img src="https://imgur.com/a/IRHMWZi">
