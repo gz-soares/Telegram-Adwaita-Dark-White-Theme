@@ -3,6 +3,7 @@
 A Telegram Desktop theme I created it to provide the users of GNOME DE some consistency.
 
 Download theme here:
+
 Dark Theme: https://t.me/addtheme/QrpIxlBsgByFshZW
 ![1IyPjkN](https://github.com/user-attachments/assets/bac48141-bb68-4b45-9fa9-258967bc490b)
 
