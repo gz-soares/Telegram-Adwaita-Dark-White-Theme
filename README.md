@@ -16,7 +16,7 @@ White Theme: https://t.me/addtheme/O3de6dYbOdlZOx7S
 ![pdkZDjz](https://github.com/user-attachments/assets/29953f34-3ff3-437d-a2c7-24f7dac0542f)
 
 
-Tested in Fedora 40.
+Tested in Fedora 40 with GNOME 46.
 
 
 Enjoy!
