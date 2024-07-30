@@ -13,7 +13,7 @@ Dark Theme: https://t.me/addtheme/QrpIxlBsgByFshZW
 
 White Theme: https://t.me/addtheme/O3de6dYbOdlZOx7S
 
-![pdkZDjz](https://github.com/user-attachments/assets/29953f34-3ff3-437d-a2c7-24f7dac0542f)
+![Bv2V9W9](https://github.com/user-attachments/assets/54fc414a-8b27-49f6-abe4-867a8f8a801b)
 
 
 Tested in Fedora 40 with GNOME 46.
