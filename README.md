@@ -1,4 +1,4 @@
-# Telegram DARK/WHITE GTK Theme layout
+# Telegram DARK/WHITE Adwaita Theme layout
 
 
 A Telegram Desktop theme I created it to provide the users of GNOME DE some consistency.
