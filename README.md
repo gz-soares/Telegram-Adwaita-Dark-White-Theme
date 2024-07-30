@@ -9,7 +9,7 @@ Download theme here:
 
 Dark Theme: https://t.me/addtheme/QrpIxlBsgByFshZW
 
-![1IyPjkN](https://github.com/user-attachments/assets/bac48141-bb68-4b45-9fa9-258967bc490b)
+![ZFIvWhl](https://github.com/user-attachments/assets/4aac9f7a-3c98-4472-9fd7-77a8d3fd20c1)
 
 White Theme: https://t.me/addtheme/O3de6dYbOdlZOx7S
 
